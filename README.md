@@ -1,4 +1,4 @@
-# Excel-Project-with-interactive-Dashboard.
+# Excel-Project-with-Interactive-Dashboard.
 
 Coffee Sales Data:
 
